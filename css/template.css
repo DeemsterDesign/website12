@@ -1,0 +1,58 @@
+
+header h1 {
+font-size:20px;
+text-align:center;
+font-weight:700;
+}
+
+header {
+    background:#acacac;
+    height:50px;
+}
+
+body {background:#ececec;}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #acacac;
+    color: white;
+    text-align: center;
+    height:150px;
+  }
+
+section {
+    text-align:center;
+    margin:0 auto;
+    display:table;
+}
+
+td { width:100px; 
+    height:100px; 
+    border:1px solid #333;
+}
+
+td#a { background-color:red; }
+td#b { background-color:blue; }
+td#c { background-color:purple; }
+td#d { background-color:green; }
+td#e { background-color:rgb(60, 101, 179); }
+td#f { background-color:rgb(228, 141, 42); }
+td#g { background-color:rgb(146, 29, 48); }
+td#h { background-color:rgb(79, 247, 238); }
+td#i { background-color:rgb(72, 56, 131); }
+td#j { background-color:rgb(223, 248, 83); }
+td#k { background-color:rgb(136, 75, 67); }
+td#l { background-color:rgb(99, 49, 180); }
+td#m { background-color:rgb(9, 95, 28); }
+td#n { background-color:rgb(215, 216, 215); }
+td#o { background-color:rgb(192, 192, 192); }
+td#p { background-color:rgb(2, 206, 172); }
+
+.images {
+    width:100px;
+    height:100px;
+}
